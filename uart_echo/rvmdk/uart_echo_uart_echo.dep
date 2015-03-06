@@ -1,0 +1,17 @@
+Dependencies for Project 'uart_echo', Target 'uart_echo': (DO NOT MODIFY !)
+F (.\startup_rvmdk.S)(0x54D93909)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Luminary--pd "TM4C123GH6PM SETA 1"-o .\rvmdk\startup_rvmdk.o --depend .\rvmdk\startup_rvmdk.d)
+F (.\uart_echo.c)(0x54D939EA)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O2 --apcs=interwork --split_sections -IC:\ti\TivaWare_C_Series-2.1.0.12573 --c99-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Luminary-DTM4C123GH6PM -Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1-o .\rvmdk\uart_echo.o --omf_browse .\rvmdk\uart_echo.crf --depend .\rvmdk\uart_echo.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A625A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x541A625C)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\inc\hw_ints.h)(0x548A480A)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\inc\hw_memmap.h)(0x548A480A)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\debug.h)(0x548A47DF)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\fpu.h)(0x548A47DF)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\gpio.h)(0x548A47DF)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\interrupt.h)(0x548A47E0)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\pin_map.h)(0x548A47E0)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\rom.h)(0x548A47E0)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\sysctl.h)(0x548A47E0)
+I (C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\uart.h)(0x548A47E0)
+F (C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\rvmdk\driverlib.lib)(0x548A47E0)()
+F (.\readme.txt)(0x548A47FC)()

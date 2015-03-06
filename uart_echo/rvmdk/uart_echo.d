@@ -1,0 +1,13 @@
+.\rvmdk\uart_echo.o: uart_echo.c
+.\rvmdk\uart_echo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\rvmdk\uart_echo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\inc/hw_ints.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\inc/hw_memmap.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib/debug.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib/fpu.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib/gpio.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib/interrupt.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib/pin_map.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib/rom.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib/sysctl.h
+.\rvmdk\uart_echo.o: C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib/uart.h
